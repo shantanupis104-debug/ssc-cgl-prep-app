@@ -1,0 +1,6 @@
+{
+  "name": "CGL Prep Pro",
+  "description": "Official TCS iON SSC CGL Exam Simulator with Bilingual Engine, Time Telemetry, Spaced Repetition, PYQ Vault, and Performance Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
